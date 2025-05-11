@@ -13,7 +13,7 @@ To explore and understand patterns in Reddit[subreddit] posts and user behavior 
 ## Tech Stack :
 
 - **Python** – Data wrangling, cleaning, analysis
-- **OpenAI - Sentiment Analysis and Tagging
+- **OpenAI** - Sentiment Analysis and Tagging
 - **SQL** – Querying BigQuery datasets
 - **Google BigQuery** – Data storage and querying
 - **Tableau** – Interactive visualizations and dashboards
