@@ -4,7 +4,9 @@ This project analyzes mental health-related posts from Reddit using Python, Open
 ---
 
 ## Project Objective
+
 To identify emotional patterns in user-generated Reddit posts (e.g., depression, anxiety, suicidal ideation) using AI-driven tagging and data analytics. The aim is to support early detection, raise awareness, and potentially assist in mental health interventions through data.
+
 ---
 
 ## Tech Stack :
