@@ -21,3 +21,17 @@ To identify emotional patterns in user-generated Reddit posts (e.g., depression,
 | **Tableau**           | Interactive dashboards and visualization      |
 
 ---
+
+## Project Components
+
+- Reddit Data Collection: Fetches posts from mental health subreddits using the PRAW API
+
+- AI-Powered Emotion Detection: Classifies each post's emotion using OpenAI (e.g., happy, sad, anxious, depressed, suicidal, or neutral)
+
+- Clean Data Pipeline: Cleans and preprocesses raw data for structured storage and analysis
+
+- Cloud Integration: Uploads processed data to Google BigQuery for further querying
+
+- Interactive Visualization: Visualizes emotion trends and distributions across time and categories using Tableau
+
+- Scalable Architecture: Easily extendable to support more subreddits, emotion categories, or platforms
